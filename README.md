@@ -13,4 +13,5 @@ python3 cumulative_percentage.py
 
 ## License
 
+The code is licensed under the [MIT License](https://github.com/flyme2bluemoon/COVID-19-in-Ontario-Schools/blob/main/LICENSE)  
 The COVID-19 data comes from the [Ontario Data Catalogue Dataset: Schools COVID-19 data](https://data.ontario.ca/dataset/summary-of-cases-in-schools). The data is subject to the [Open Government Licence (Ontario)](https://www.ontario.ca/page/open-government-licence-ontario).

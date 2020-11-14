@@ -11,6 +11,15 @@ cd COVID-19-in-Ontario-Schools
 python3 cumulative_percentage.py
 ```
 
+## Updating the dataset
+
+Run the `get_data.sh` shell script to update the csv file(s).
+
+```bash
+chmod +x get_data.sh
+./get_data.sh
+```
+
 ## License
 
 The code is licensed under the [MIT License](https://github.com/flyme2bluemoon/COVID-19-in-Ontario-Schools/blob/main/LICENSE)  

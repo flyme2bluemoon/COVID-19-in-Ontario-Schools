@@ -9,6 +9,7 @@ Pretty self explanitory here. Either download the code and the csv file or git c
 git clone https://github.com/flyme2bluemoon/COVID-19-in-Ontario-Schools.git
 cd COVID-19-in-Ontario-Schools
 python3 cumulative_percentage.py
+python3 school_boards.py
 ```
 
 ## Updating the dataset

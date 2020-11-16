@@ -10,6 +10,8 @@ with open("csv/schoolsactivecovid.csv", "r", encoding = "ISO-8859-1") as data:
         if school not in school_list:
             school_list.append(school)
 
+school_list.pop(0)
+
 print(school_list)
 print(f"Cumulative Schools with COVID-19: {len(school_list)}")
 print(f"Total schools: {number_of_schools}")
